@@ -1,0 +1,12 @@
+[package]
+name = "comma-command"
+version = "0.0.1"
+edition = "2021"
+description = "Name reservation for the comma-command CLI; the native Rust implementation is not available yet."
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/by3hak/comma-command"
+keywords = ["cli", "shell", "dispatch"]
+
+[lib]
+path = "src/lib.rs"
