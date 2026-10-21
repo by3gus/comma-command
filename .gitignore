@@ -10,3 +10,6 @@ dist/
 .uv/
 *.swp
 .DS_Store
+
+# Rust build output
+target/
